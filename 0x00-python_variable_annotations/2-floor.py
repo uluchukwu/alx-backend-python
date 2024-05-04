@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 '''
-A function "floor" which takes in n of float arguement and returns floor
+A fuction that rounds up a float to the nearest integer.
 '''
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
 
-    return floor
+    return int
