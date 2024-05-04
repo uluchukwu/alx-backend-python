@@ -1,7 +1,7 @@
 #!/usr/bin/env python
-''' define variables
-
+'''define variables
 '''
+
 
 
 a: int = 1
