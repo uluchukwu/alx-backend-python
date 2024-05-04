@@ -1,17 +1,9 @@
 #!/usr/bin/env python3
-'''
-A fuction that rounds up a float to the nearest integer.
-'''
-
-
-
-
-import math
-
-
-
-def floor(n: float) -> int:
-'''compute a floor of a floating point number.
+'''Task 2's module.
 '''
 
-    return int
+
+def floor(a: float) -> int:
+    '''Computes the floor of a floating-point number.
+    '''
+    return int(a)
